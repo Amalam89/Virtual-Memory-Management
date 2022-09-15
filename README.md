@@ -1,4 +1,4 @@
-# Vitrual-Memory-Management
+# Virtual-Memory-Management
 
 Application which mimics the behavior of Virtual Memory within operating systems
 
